@@ -1,4 +1,14 @@
-### Hi there 👋
+### Greetings!
+
+#### I am an experianced C# Developer by trade and work on projects involving the likes of C++ and Python in my own time.
+
+I like tinker with microcontrollers, Robotics, sensors, automation, Single Board Computers and Game Dev. 
+
+#### Currently playing with
+- Raspberry Pi
+- Pico
+- 32Blit
+- Arduino
 
 <!--
 **shane-powell/shane-powell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
