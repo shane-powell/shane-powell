@@ -1,6 +1,6 @@
 ### Greetings!
 
-#### I am an experianced C# Developer by trade and work on projects involving the likes of C++ and Python in my own time.
+#### I am an experianced C# Developer and work on projects involving the likes of C++ and Python in my own time.
 
 I like tinker with all sorts including microcontrollers, Robotics, sensors, automation, Single Board Computers and Game Dev. 
 
