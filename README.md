@@ -16,7 +16,7 @@ I like tinker with microcontrollers, Robotics, sensors, automation, Single Board
 
 - [Circuit Python System Monitor USB key](https://github.com/shane-powell/neotrinkey-status-mon)
 
-![alt text](https://github.com/shane-powell/neotrinkey-status-mon/blob/main/sysmon.gif?raw=true)
+<!--![alt text](https://github.com/shane-powell/neotrinkey-status-mon/blob/main/sysmon.gif?raw=true)-->
 
 - [Windows app to control DCC model trainsets](https://github.com/shane-powell/DotNet-DCC)
 
