@@ -12,9 +12,9 @@ I like tinker with microcontrollers, Robotics, sensors, automation, Single Board
 
 ### A few noteworthy projects
 
-[32Blit Firmware Update Tool (Windows Only)](https://github.com/shane-powell/BlitFlashNet)
+- [32Blit Firmware Update Tool (Windows Only)](https://github.com/shane-powell/BlitFlashNet)
 
-[Circuit Python System Monitor USB key](https://github.com/shane-powell/neotrinkey-status-mon)
+- [Circuit Python System Monitor USB key](https://github.com/shane-powell/neotrinkey-status-mon)
 
 ![alt text](https://github.com/shane-powell/neotrinkey-status-mon/blob/main/sysmon.gif?raw=true)
 
