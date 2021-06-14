@@ -16,10 +16,12 @@ I like tinker with all sorts including microcontrollers, Robotics, sensors, auto
 
 
 - [Circuit Python System Monitor USB key](https://github.com/shane-powell/neotrinkey-status-mon)
+- [WPF app to send data to Trinkey](https://github.com/shane-powell/net5-system-monitor) ![badge](https://github.com/shane-powell/net5-system-monitor/actions/workflows/dotnet.yml/badge.svg)
 
-<!--![alt text](https://github.com/shane-powell/neotrinkey-status-mon/blob/main/sysmon.gif?raw=true)-->
+<!--![alt text](https://github.com/shane-powell/neotrinkey-status-mon/blob/main/sysmon.gif?raw=true)--> 
 
 - [Windows app to control DCC model trainsets](https://github.com/shane-powell/DotNet-DCC)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shane-powell)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shane-powell&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
