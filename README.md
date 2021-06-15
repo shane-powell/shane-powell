@@ -5,16 +5,21 @@
 I like tinker with all sorts including microcontrollers, Robotics, sensors, automation, Single Board Computers and Game Dev. 
 
 #### Currently playing with
-- Raspberry Pi
-- Pico
-- 32Blit
-- Arduino
+Raspberry Pi / Pico / 32Blit /Arduino
 
 ### A few noteworthy projects
 
 [Blit Racers](https://github.com/shane-powell/blit-racers) (Topdown racer in development for the 32Blit.)
 
 ![image](https://github.com/shane-powell/blit-racers/blob/main/splash.png)
+
+[Blit Boing](https://github.com/shane-powell/blit-boing) (Port of Boing from Raspberry Pi code the classics)
+
+![image](https://github.com/shane-powell/blit-boing/blob/main/splash.png)
+
+[Advanced Lawnmower Simulator](https://github.com/shane-powell/advanced-lawnmower-simulator-blit) (32Blit port of this cult classic!)
+
+![image](https://github.com/shane-powell/advanced-lawnmower-simulator-blit/blob/main/assets/splash.png)
 
 - [32Blit Firmware Update Tool (Windows Only)](https://github.com/shane-powell/BlitFlashNet) ![badge](https://github.com/shane-powell/BlitFlashNet/actions/workflows/dotnet.yml/badge.svg)
 
