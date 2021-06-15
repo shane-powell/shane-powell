@@ -12,6 +12,9 @@ I like tinker with all sorts including microcontrollers, Robotics, sensors, auto
 
 ### A few noteworthy projects
 
+[Blit Racers](https://github.com/shane-powell/blit-racers) Topdown racer in development for the 32Blit.
+![image](https://github.com/shane-powell/blit-racers/blob/main/splash.png)
+
 - [32Blit Firmware Update Tool (Windows Only)](https://github.com/shane-powell/BlitFlashNet) ![badge](https://github.com/shane-powell/BlitFlashNet/actions/workflows/dotnet.yml/badge.svg)
 
 
