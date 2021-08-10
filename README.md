@@ -9,7 +9,7 @@ Raspberry Pi / Pico / 32Blit /Arduino
 
 ### A few noteworthy projects
 
-[Blit Racers](https://github.com/shane-powell/blit-racers) (Topdown racer in development for the 32Blit.)
+[Blit Racers](https://github.com/shane-powell/blit-racers) (Topdown racer in development for the 32Blit.) ![image](https://github.com/shane-powell/blit-racers/workflows/Build/badge.svg)
 
 ![image](https://github.com/shane-powell/blit-racers/blob/main/splash.png)
 
