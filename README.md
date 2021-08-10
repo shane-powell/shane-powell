@@ -13,11 +13,11 @@ Raspberry Pi / Pico / 32Blit /Arduino
 
 ![image](https://github.com/shane-powell/blit-racers/blob/main/splash.png)
 
-[Blit Boing](https://github.com/shane-powell/blit-boing) (Port of Boing from Raspberry Pi code the classics)
+[Blit Boing](https://github.com/shane-powell/blit-boing) (Port of Boing from Raspberry Pi code the classics) ![image](https://github.com/shane-powell/blit-boing/workflows/Build/badge.svg)
 
 ![image](https://github.com/shane-powell/blit-boing/blob/main/splash.png)
 
-[Advanced Lawnmower Simulator](https://github.com/shane-powell/advanced-lawnmower-simulator-blit) (32Blit port of this cult classic!)
+[Advanced Lawnmower Simulator](https://github.com/shane-powell/advanced-lawnmower-simulator-blit) (32Blit port of this cult classic!) ![image](https://github.com/shane-powell/advanced-lawnmower-simulator-blit/workflows/Build/badge.svg)
 
 ![image](https://github.com/shane-powell/advanced-lawnmower-simulator-blit/blob/main/assets/splash.png)
 
