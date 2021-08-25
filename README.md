@@ -11,7 +11,7 @@ Raspberry Pi / Pico / 32Blit /Arduino
 
 [Blit Racers](https://github.com/shane-powell/blit-racers) (Topdown racer in development for the 32Blit.) ![image](https://github.com/shane-powell/blit-racers/workflows/Build/badge.svg)
 
-![image](https://github.com/shane-powell/blit-racers/blob/main/splash.png)
+![image](https://github.com/shane-powell/blit-racers/blob/main/assets/title.png)
 
 [Blit Boing](https://github.com/shane-powell/blit-boing) (Port of Boing from Raspberry Pi code the classics) ![image](https://github.com/shane-powell/blit-boing/workflows/Build/badge.svg)
 
